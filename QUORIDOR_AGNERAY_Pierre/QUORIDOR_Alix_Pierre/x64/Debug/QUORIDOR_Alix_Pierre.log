@@ -1,0 +1,36 @@
+﻿  AI.cpp
+  board.cpp
+  BoardGame.cpp
+  bonus.cpp
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\bonus.h(77,8): warning C4551: liste d'arguments manquante dans l'appel de fonction
+  escapeAvailable.cpp
+  intersection.cpp
+  main.cpp
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\bonus.h(77,8): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(112,21): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(137,25): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(197,29): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(278,21): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(303,25): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(363,29): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(640,21): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(663,25): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(720,29): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(1016,13): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(1085,29): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(1119,45): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(1136,45): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(1153,45): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\main.cpp(1170,45): warning C4551: liste d'arguments manquante dans l'appel de fonction
+  mazeSolver.cpp
+  Move.cpp
+  pawn.cpp
+  place.cpp
+  wall.cpp
+  winTest.cpp
+  Génération de code en cours...
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\mazeSolver.cpp(372): warning C4172: retourne l'adresse d'une variable locale ou : AIcoordinates temporaire
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\pawn.h(28): warning C4172: retourne l'adresse d'une variable locale ou : coordinatePrinted temporaire
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\pawn.h(28): warning C4172: retourne l'adresse d'une variable locale ou : coordinatePrinted temporaire
+C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\QUORIDOR_Alix_Pierre\pawn.h(28): warning C4172: retourne l'adresse d'une variable locale ou : coordinatePrinted temporaire
+  QUORIDOR_Alix_Pierre.vcxproj -> C:\Users\pagne\OneDrive\Bureau\sauvegarde_burau\isen\Greenwich\QUORIDOR_Alix_Pierre\x64\Debug\QUORIDOR_Alix_Pierre.exe
